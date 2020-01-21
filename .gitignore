@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+/android/
+/ios/
+/node_modules/
+/src/constants/fetchUrl.js
+/__tests__/
+/.idea/
+/.flowconfig
+/.buckconfig
+/.watchmanconfig
+/yarn.lock
+/package-lock.json
+/.babelrc
+/app.json
+/index.js
